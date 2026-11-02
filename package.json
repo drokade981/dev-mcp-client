@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@google/genai": "^2.32.0",
+    "@modelcontextprotocol/client": "^2.4.0",
     "@types/node": "^26.6.6",
     "dotenv": "^18.0.9",
     "typescript": "^7.0.2"
